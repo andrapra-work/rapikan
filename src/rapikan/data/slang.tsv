@@ -1,0 +1,413 @@
+# rapikan slang dictionary (MIT). informal<TAB>formal. Formal side may contain spaces.
+# Lines starting with # are comments. Keep entries lowercase.
+# --- negation ---
+nggak	tidak
+ngga	tidak
+nggk	tidak
+ngak	tidak
+gak	tidak
+ga	tidak
+gk	tidak
+g	tidak
+enggak	tidak
+engga	tidak
+kagak	tidak
+kaga	tidak
+ndak	tidak
+nda	tidak
+tdk	tidak
+tak	tidak
+gaada	tidak ada
+gada	tidak ada
+gaboleh	tidak boleh
+gabisa	tidak bisa
+gbs	tidak bisa
+gatau	tidak tahu
+gtw	tidak tahu
+gpp	tidak apa-apa
+gapapa	tidak apa-apa
+nggapapa	tidak apa-apa
+bkn	bukan
+blm	belum
+blum	belum
+jgn	jangan
+jngn	jangan
+# --- intensifiers / degree ---
+bgt	sekali
+bngt	sekali
+banget	sekali
+bener2	benar-benar
+bnr	benar
+bener	benar
+amat	sekali
+pol	sekali
+poll	sekali
+# --- conjunctions & function words ---
+tp	tapi
+tpi	tapi
+trs	terus
+trus	terus
+jd	jadi
+jdi	jadi
+yg	yang
+yng	yang
+dgn	dengan
+dg	dengan
+dlm	dalam
+dr	dari
+dri	dari
+krn	karena
+karna	karena
+krna	karena
+soalnya	karena
+utk	untuk
+untk	untuk
+sm	sama
+sma	sama
+ama	sama
+jg	juga
+jga	juga
+aja	saja
+ajah	saja
+doang	saja
+lg	lagi
+lgi	lagi
+kalo	kalau
+klo	kalau
+kl	kalau
+klu	kalau
+spy	supaya
+biar	supaya
+pdhl	padahal
+pdahal	padahal
+kyk	seperti
+kayak	seperti
+kek	seperti
+emg	memang
+emang	memang
+mmg	memang
+sih	sih
+dong	dong
+deh	deh
+kok	kok
+tuh	itu
+nih	ini
+gitu	begitu
+gini	begini
+gimana	bagaimana
+gmn	bagaimana
+gmna	bagaimana
+knp	kenapa
+knapa	kenapa
+napa	kenapa
+ngapain	mengapa
+kapan2	kapan-kapan
+sbnrnya	sebenarnya
+sebenernya	sebenarnya
+skrg	sekarang
+skrng	sekarang
+sekarng	sekarang
+td	tadi
+tdi	tadi
+bsk	besok
+besok2	besok-besok
+kmrn	kemarin
+kemaren	kemarin
+udh	sudah
+udah	sudah
+sdh	sudah
+dah	sudah
+uda	sudah
+lom	belum
+blom	belum
+bs	bisa
+bsa	bisa
+hrs	harus
+msh	masih
+masi	masih
+mo	mau
+mau	mau
+pengen	ingin
+pgn	ingin
+pingin	ingin
+kpn	kapan
+dmn	di mana
+dimana	di mana
+mana2	mana-mana
+sy	saya
+gw	saya
+gue	saya
+gua	saya
+ane	saya
+aq	aku
+ak	aku
+km	kamu
+kmu	kamu
+lu	kamu
+lo	kamu
+loe	kamu
+elu	kamu
+dia	dia
+doi	dia
+kalian	kalian
+klian	kalian
+kita2	kita
+org	orang
+orng	orang
+smua	semua
+smw	semua
+sm2	sama-sama
+sama2	sama-sama
+bnyk	banyak
+byk	banyak
+sdikit	sedikit
+dikit	sedikit
+dkt	dekat
+deket	dekat
+jauh2	jauh-jauh
+sll	selalu
+slalu	selalu
+sllu	selalu
+kadang2	kadang-kadang
+trnyata	ternyata
+ternyta	ternyata
+tetep	tetap
+ttp	tetap
+cuma	hanya
+cm	hanya
+cuman	hanya
+# --- greetings & expressions ---
+makasih	terima kasih
+mksh	terima kasih
+mkasih	terima kasih
+trims	terima kasih
+thx	terima kasih
+thanks	terima kasih
+tq	terima kasih
+maaci	terima kasih
+sory	maaf
+sorry	maaf
+sori	maaf
+mf	maaf
+plis	tolong
+pls	tolong
+please	tolong
+tlg	tolong
+met	selamat
+slmt	selamat
+ok	oke
+okay	oke
+okey	oke
+oke	oke
+otw	dalam perjalanan
+btw	ngomong-ngomong
+wkwk	tertawa
+wkwkwk	tertawa
+haha	tertawa
+hehe	tertawa
+hihi	tertawa
+xixi	tertawa
+anjir	astaga
+anjay	astaga
+cmiiw	koreksi jika saya salah
+# --- adjectives & common words ---
+mantul	mantap
+mantab	mantap
+mantep	mantap
+josss	mantap
+joss	mantap
+keren	keren
+krn2	keren
+bagus2	bagus
+enak2	enak
+seneng	senang
+sneng	senang
+sedih	sedih
+kesel	kesal
+bete	kesal
+capek	lelah
+cape	lelah
+capai	lelah
+males	malas
+mls	malas
+gede	besar
+gedhe	besar
+kecil2	kecil
+mahal	mahal
+murmer	murah meriah
+murce	murah
+cakep	cantik
+cantiq	cantik
+ganteng	tampan
+jelek	jelek
+lama2	lama-lama
+cepet	cepat
+cpt	cepat
+pelan2	pelan-pelan
+bentar	sebentar
+bntr	sebentar
+sebntr	sebentar
+ntar	nanti
+nnti	nanti
+ntr	nanti
+tar	nanti
+rame	ramai
+ramee	ramai
+sepi	sepi
+anget	hangat
+dingin	dingin
+pedes	pedas
+manis	manis
+asin	asin
+gurih	gurih
+seger	segar
+pas	pas
+bener2an	benar-benar
+beneran	benar-benar
+banyak2	banyak
+gratis	gratis
+gratisan	gratis
+duit	uang
+doku	uang
+kerjaan	pekerjaan
+kantor	kantor
+temen	teman
+tmn	teman
+temen2	teman-teman
+bokap	ayah
+nyokap	ibu
+bapak	bapak
+emak	ibu
+mamah	ibu
+mama	ibu
+papah	ayah
+papa	ayah
+adek	adik
+dek	adik
+kakak	kakak
+kak	kakak
+bro	saudara
+sis	saudari
+gan	juragan
+mimin	admin
+hp	ponsel
+hape	ponsel
+cewek	perempuan
+cewe	perempuan
+cowok	laki-laki
+cowo	laki-laki
+anak2	anak-anak
+bocil	anak kecil
+ortu	orang tua
+# --- verbs (colloquial forms that rules can't recover) ---
+liat	lihat
+lht	lihat
+ngeliat	melihat
+nonton	menonton
+ntn	menonton
+nunggu	menunggu
+nungguin	menunggu
+denger	dengar
+dengerin	mendengarkan
+ngerti	mengerti
+ngerasa	merasa
+ngomong	berbicara
+ngobrol	mengobrol
+ngasih	memberi
+dikasih	diberi
+bilang	berkata
+dibilang	dikatakan
+ketemu	bertemu
+ketauan	ketahuan
+tau	tahu
+taw	tahu
+tw	tahu
+pake	pakai
+dipake	dipakai
+pakek	pakai
+nyampe	sampai
+nyampai	sampai
+sampe	sampai
+smpe	sampai
+balik	kembali
+pulang	pulang
+pergi	pergi
+nyoba	mencoba
+nyobain	mencoba
+cobain	coba
+bikin	membuat
+bkin	membuat
+dibikin	dibuat
+naro	menaruh
+taro	taruh
+ambil	ambil
+beliin	belikan
+makan	makan
+mam	makan
+maem	makan
+minum	minum
+tidur	tidur
+bobo	tidur
+bobok	tidur
+mandi	mandi
+kerja	kerja
+gawe	kerja
+kuliah	kuliah
+sekolah	sekolah
+main	main
+maen	main
+belajar	belajar
+blajar	belajar
+nanya	bertanya
+nanyain	menanyakan
+jawab	jawab
+jwb	jawab
+cek	periksa
+ngecek	memeriksa
+dicek	diperiksa
+nge-cek	memeriksa
+order	pesan
+ngorder	memesan
+pesen	pesan
+mesen	memesan
+dipesen	dipesan
+bayar	bayar
+byr	bayar
+antri	antre
+ngantre	mengantre
+nyari	mencari
+dicariin	dicarikan
+nemu	menemukan
+nemuin	menemukan
+# --- time & numbers words ---
+skrg2	sekarang
+sejam	satu jam
+setengah	setengah
+seharian	seharian
+tiap	setiap
+tiap2	setiap
+# --- online / tech colloquial ---
+wa	whatsapp
+ig	instagram
+yt	youtube
+fb	facebook
+dm	pesan langsung
+gercep	gerak cepat
+mager	malas gerak
+baper	bawa perasaan
+gabut	tidak ada kegiatan
+santuy	santai
+santai	santai
+sans	santai
+receh	receh
+kuy	ayo
+yuk	ayo
+yok	ayo
+ayok	ayo
+cus	ayo
+gas	ayo
+gaes	teman-teman
+guys	teman-teman
+gais	teman-teman
+gengs	teman-teman
+ngantri	mengantre

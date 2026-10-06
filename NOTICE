@@ -1,0 +1,14 @@
+rapikan bundles third-party data:
+
+src/rapikan/data/roots.tsv
+  Derived from hunspell-id, the Indonesian Hunspell dictionary distributed with
+  LibreOffice (https://github.com/LibreOffice/dictionaries/tree/master/id,
+  upstream https://github.com/shuLhan/hunspell-id), itself a continuation of
+  "Kamus Indonesia" by Benitius Brevoort.
+  License: GNU Lesser General Public License v3.0
+  (src/rapikan/data/LICENSE-roots-LGPL-3.0.txt).
+  Processing: word list and affix flags converted to root<TAB>allowed-affix-families
+  by tools/build_roots.py. You may replace this file with your own version.
+
+All other files (code, slang.tsv, stopwords.txt, benchmark gold sets) were
+written for rapikan and are MIT licensed.
