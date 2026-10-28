@@ -10,5 +10,15 @@ src/rapikan/data/roots.tsv
   Processing: word list and affix flags converted to root<TAB>allowed-affix-families
   by tools/build_roots.py. You may replace this file with your own version.
 
-All other files (code, slang.tsv, stopwords.txt, benchmark gold sets) were
-written for rapikan and are MIT licensed.
+bench/ud_csui_stems.tsv
+  Derived from UD_Indonesian-CSUI (Universal Dependencies,
+  https://github.com/UniversalDependencies/UD_Indonesian-CSUI).
+  License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+  Processing: word/lemma pairs extracted by tools/ud_to_gold.py; only affixed
+  words with a single lemma kept. This file stays under CC BY-SA 4.0.
+
+The downstream benchmark (bench/downstream.py) reads SmSA and EmoT (IndoNLU) and
+NusaX-senti from their own repositories; none of that data is bundled.
+
+All other files (code, slang.tsv, stopwords.txt, bench/gold_stems.tsv,
+bench/heldout_stems.tsv) were written for rapikan and are MIT licensed.
